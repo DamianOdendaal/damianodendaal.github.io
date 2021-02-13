@@ -2,11 +2,9 @@
 
 #You are in for such a treat!
 
-1. Numbered
-2. List
+###Who am I?
 
-**Bold** and _Italic_ and `Code` text
+##I am Damian Odendaal, a 21 year old who has many interests in the tech industry.
 
-[Link](url) and ![Image](src)
-```
+#What am I interested in you might ask?  Well lets dive right into that! 
 
